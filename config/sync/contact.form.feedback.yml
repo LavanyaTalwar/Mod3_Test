@@ -1,0 +1,14 @@
+uuid: ebede06f-d9af-4478-9b44-c18e48d7d35c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - talwarlavanya2002@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''

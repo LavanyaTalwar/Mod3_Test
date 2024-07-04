@@ -1,0 +1,18 @@
+uuid: cec2166a-82e2-4c38-9c14-1a7867b3fbcf
+langcode: en
+status: true
+dependencies: {  }
+id: dev
+label: Dev
+description: ''
+weight: 0
+stackable: false
+no_patching: false
+storage: collection
+folder: ''
+module:
+  webform: 0
+theme: {  }
+complete_list:
+  - system.site
+partial_list: {  }
